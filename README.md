@@ -3,10 +3,6 @@ This repository contains the resources for adopting 3D printable ExM microplates
 
 You can download the Fusion 360 CAD files for the plate, the lid, and the silicone rubber inserts from Links: [plate+lid](https://a360.co/40CkanE/) and [inserts](https://a360.co/40CkanE/).
 
---- Data supplement---
---- Title: Geometry-preserving Expansion Microscopy microplates enable high fidelity 
-nanoscale distortion mapping
-
 The zip file contains the following directories and subdirectories. The files, recommended software, calling code and relevance to the main manuscript are included in the notes below:
 
 (i)	“STL files” – Includes .stl file formats of the Expansion Microscopy microplate components. These files can be opened with any CAD software (e.g. Fusion 360) or any opensource 3D printer slicer programme (e.g. Chitubox v1.9.5)
