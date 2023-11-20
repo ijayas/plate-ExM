@@ -3,7 +3,8 @@ This page links the resources for adopting 3D printable ExM microplates for 4x e
 
 You can download the Fusion 360 CAD files for the plate, the lid, and the silicone rubber inserts from Links: [plate+lid](https://a360.co/40CkanE/) and [inserts](https://a360.co/40CkanE/).
 
-{% include image="images/plate.jpg" width="100%" %}
+![plate](https://github.com/ijayas/plate-ExM/assets/71890503/1d4382a9-13ba-45c5-9248-dbe6dd18a55a)
+
 
 The remaining data files that include 3D printer STL files, distortion analysis and plotting code, and ImageJ macros at the Zenodo [repository](https://zenodo.org/records/8381689)
 
